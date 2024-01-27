@@ -3,14 +3,14 @@
   <div class="wrapper">
     <TheHeader></TheHeader>
     <main>
-      <FirstSection></FirstSection>
+      <Home></Home>
     </main>
   </div>
 </template>
 
 <script setup>
-  import FirstSection from './components/FirstSection.vue';
-  import TheHeader from './components/TheHeader.vue';
+  import FirstSection from './components/Home.vue';
+  import Home from './components/Home.vue';
 </script>
 
 <style>
