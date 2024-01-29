@@ -9,8 +9,8 @@
 </template>
 
 <script setup>
-  import FirstSection from './components/Home.vue';
   import Home from './components/Home.vue';
+  import TheHeader from './components/TheHeader.vue';
 </script>
 
 <style>
